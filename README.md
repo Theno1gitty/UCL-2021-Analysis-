@@ -1,5 +1,5 @@
 To make this code, I relied on what I learnt in the IBM "Data Science" course in Coursera. I made this in the summer break before joining grade 9, and decided to upload it now. 
-At the time, I was unfamiliar with the statistics jargon, so some analyses might be incorrectly executed because of the use of wrong methods. For some complicated code, I asked Gemini 
+At the time, I was unfamiliar with some of the statistics jargon, so some analyses might be incorrectly executed because of the use of wrong methods. For some complicated code, I asked Gemini 
 for help, and have indicated so with comments. If visible in Google Colab, I have also added my interpretation of the data in English. 
 
 I got the data from kaggle. I had to manipulate the data to analyse it, as it was separated by category (like goals, defending, goalkeeping, etc.). 
