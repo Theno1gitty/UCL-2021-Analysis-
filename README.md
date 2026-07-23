@@ -12,7 +12,7 @@ This project applies statistical methods and data visualisation to evaluate team
 ## Key Features & Analysis
 * **Exploratory Data Analysis (EDA):** Uncovered trends in possession efficiency vs. match outcomes.
 * **Performance Metrics:** Analysed expected goals ($xG$), conversion rates, and defensive workload per team.
-* **Data Visualization:** Built visual representations of player passing networks and spatial match control.
+* **Data Visualisation:** Built visual representations of player passing networks and spatial match control.
 
 ## Tech Stack & Libraries
 * **Language:** Python
