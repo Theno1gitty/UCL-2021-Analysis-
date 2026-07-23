@@ -2,8 +2,27 @@ To make this code, I relied on what I learnt in the IBM "Data Science" course in
 At the time, I was unfamiliar with some of the statistics jargon, so some analyses might be incorrectly executed because of the use of wrong methods. For some complicated code, I asked Gemini 
 for help, and have indicated so with comments. If visible in Google Colab, I have also added my interpretation of the data in English. 
 
-I got the data from kaggle. I had to manipulate the data to analyse it, as it was separated by category (like goals, defending, goalkeeping, etc.). 
+# UEFA Champions League 2021 Tactical & Performance Analysis
 
-Although complex, so far, this program can analyse any UCL related data, but to actually analyse it, you might have to delete some cells as they may be unnecessary or cause bugs. 
+An exploratory data science project analyzing player and team performance metrics during the 2020–2021 UEFA Champions League season using Python.
 
-I hope you enjoy using my program. If there is any feedback you have for me, please feel free to reach out! I would be more than happy to act upon it!
+## Project Overview
+This project applies statistical methods and data visualisation to evaluate team efficiency, passing patterns, and scoring metrics across the 2021 UCL tournament. By extracting insights from event-level data, it explores tactical trends that led to successful team performances.
+
+## Key Features & Analysis
+* **Exploratory Data Analysis (EDA):** Uncovered trends in possession efficiency vs. match outcomes.
+* **Performance Metrics:** Analysed expected goals ($xG$), conversion rates, and defensive workload per team.
+* **Data Visualization:** Built visual representations of player passing networks and spatial match control.
+
+## Tech Stack & Libraries
+* **Language:** Python
+* **Data Processing:** `pandas`, `numpy`
+* **Visualisation:** `matplotlib`, `seaborn`
+
+## Quickstart
+```bash
+# Clone repository
+git clone [https://github.com/Theno1gitty/UCL-2021-Analysis-.git](https://github.com/Theno1gitty/UCL-2021-Analysis-.git)
+
+# Run Jupyter Notebook
+jupyter notebook
